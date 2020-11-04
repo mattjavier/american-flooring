@@ -13,4 +13,8 @@ router.get('/contact', (req, res) => {
   res.sendFile(join(__dirname, '../public/lib/contact.html'))
 })
 
+router.get('/*', (req, res) => {
+  res.sendFile(join(__dirname, '../public/lib/index.html'))
+})
+
 module.exports = router
