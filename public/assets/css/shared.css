@@ -5,6 +5,7 @@
 #navLinks a {
   letter-spacing: 2px;
   padding-left: 10px;
+  font-size: 12px;
 }
 
 #navLinks a:hover {
@@ -16,3 +17,22 @@
   text-decoration: none;
   border-color: transparent;
 } 
+
+#footerTop {
+  height: 200px;
+}
+
+#footerTop p {
+  margin: 5px;
+  letter-spacing: 1px;
+}
+
+#footerTop a {
+  text-decoration: none;
+  color: #6c757d;
+}
+
+#footerBtm {
+  padding: 20px 0 20px 0;
+  background-color: #336699;
+}
