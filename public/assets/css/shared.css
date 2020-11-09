@@ -4,6 +4,11 @@
 
 #navLinks a {
   letter-spacing: 2px;
+  padding-left: 10px;
+}
+
+#navLinks a:hover {
+  color: #336699;
 }
 
 .custom-toggler.navbar-toggler {
