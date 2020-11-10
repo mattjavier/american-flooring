@@ -1,3 +1,8 @@
+#brand {
+  margin: 0;
+  width: 50%;
+}
+
 #logo {
   width: 100px;
 }
@@ -23,11 +28,26 @@
 
 #footerTop {
   height: 200px;
+  padding: 0 26px 0 26px;
+  display: flex;
+  align-items: center;
+  font-size: 12px;
+}
+
+#footerTopContainer {
+  padding: 0 0;
+  margin: auto 0;
+}
+
+#footerTop h6 {
+  letter-spacing: 2px;
+  padding-bottom: 10px;
+  font-size: 12px;
 }
 
 #footerTop p {
-  margin: 5px;
   letter-spacing: 1px;
+  margin: 5px 0 5px 0;
 }
 
 #footerTop a {
@@ -38,4 +58,9 @@
 #footerBtm {
   padding: 20px 0 20px 0;
   background-color: #336699;
+}
+
+#copyright {
+  margin: 0 0 0 26px;
+  letter-spacing: 1px;
 }
