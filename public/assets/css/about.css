@@ -1,0 +1,23 @@
+#aboutMain {
+  margin-top: 100px;
+  padding: 0;
+}
+
+#aboutJumbo {
+  padding: 0;
+}
+
+#aboutContent {
+  padding: 10px;
+}
+
+#aboutTitle {
+  padding: 20px;
+  letter-spacing: 2px;
+}
+
+#aboutDesc {
+  background-color: #336699;
+  font-size: 14px;
+  margin: 0 10px 0 10px;
+}

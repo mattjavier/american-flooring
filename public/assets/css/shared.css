@@ -4,7 +4,11 @@
 }
 
 #logo {
-  width: 100px;
+  width: 50px;
+}
+
+#navbar {
+  height: 100px;
 }
 
 #navLinks a {
