@@ -2,3 +2,22 @@
   margin-top: 77px;
   padding: 0;
 }
+
+#portfolioJumbo {
+  color: #ffffff;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/IMG_1623.JPG');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  align-self: center;
+}
+
+#innerJumbo {
+  margin: auto;
+}
+
+#portfolioTitle {
+  margin: auto 0;
+}
