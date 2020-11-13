@@ -92,12 +92,21 @@ const group4 = [
   }
 ]
 
-document.getElementById('row1').addEventListener('load', () => {
+const loadGroup = (group, rowID) => {
   let colElem = document.createElement('div')
   colElem.className = 'col-3'
-  colElem.innerHTML = `
-    <p>Hello</p>
-  `
-  document.getElementById('row1').innerHTML.append(colElem)
+  group.forEach(element => {
+    let dataElem = document.createElement('p')
+    dataElem.textContent = element.name
+    colElem.append(dataElem)
+  })
+  document.getElementById(rowID).append(colElem)
+}
+
+document.getElementById('viewWorks').addEventListener('click', () => {
+  loadGroup(group1, 'row1')
+  loadGroup(group2, 'row2')
+  loadGroup(group3, 'row3')
+  loadGroup(group4, 'row4')
 })
 
