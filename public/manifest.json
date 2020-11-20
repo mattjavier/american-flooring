@@ -3,7 +3,188 @@
   "short_name": "AFI",
   "icons": [
     {
-      "src": "/assets/images/Coronado Center 1.jpg"
+      "src": "/assets/images/CoronadoCenter1.jpg",
+      "sizes": "960x640",
+      "type": "image/jpg"
+    },
+    {
+      "src": "/assets/images/CoronadoCenter3.jpg",
+      "sizes": "1050x739",
+      "type": "image/jpg"
+    },
+    {
+      "src": "/assets/images/Fleming'sLaJolla.jpg",
+      "sizes": "776x600",
+      "type": "image/jpg"
+    },
+    {
+      "src": "/assets/images/IMG_1620.JPG",
+      "sizes": "4032x3024",
+      "type": "image/jpg"
+    },
+    {
+      "src": "/assets/images/IMG_1623.JPG",
+      "sizes": "4032x3024",
+      "type": "image/jpg"
+    },
+    {
+      "src": "/assets/images/IMG_1626.JPG",
+      "sizes": "4032x3024",
+      "type": "image/jpg"
+    },
+    {
+      "src": "/assets/images/IMG_1629.JPG",
+      "sizes": "4032x3024",
+      "type": "image/jpg"
+    },
+    {
+      "src": "/assets/images/IMG_3063.JPG",
+      "sizes": "3264x2448",
+      "type": "image/jpg"
+    },
+    {
+      "src": "/assets/images/IMG_3066.JPG",
+      "sizes": "3264x2448",
+      "type": "image/jpg"
+    },
+    {
+      "src": "/assets/images/InlandChurchGym1.JPG",
+      "sizes": "2592x1944",
+      "type": "image/jpg"
+    },
+    {
+      "src": "/assets/images/IrisPlaza1.jpg",
+      "sizes": "631x421",
+      "type": "image/jpg"
+    },
+    {
+      "src": "/assets/images/logo.jpg",
+      "sizes": "849x849",
+      "type": "image/jpg"
+    },
+    {
+      "src": "/assets/images/MarinersChurch1.jpg",
+      "sizes": "4288x2848",
+      "type": "image/jpg"
+    },
+    {
+      "src": "/assets/images/MarinersChurch7.JPG",
+      "sizes": "3648x2736",
+      "type": "image/jpg"
+    },
+    {
+      "src": "/assets/images/MarinersChurch8.JPG",
+      "sizes": "3648x2736",
+      "type": "image/jpg"
+    },
+    {
+      "src": "/assets/images/MLKHospital1.jpg",
+      "sizes": "317x237",
+      "type": "image/jpg"
+    },
+    {
+      "src": "/assets/images/MLKHospital2.jpg",
+      "sizes": "317x237",
+      "type": "image/jpg"
+    },
+    {
+      "src": "/assets/images/MLKHospital3.jpg",
+      "sizes": "412x306",
+      "type": "image/jpg"
+    },
+    {
+      "src": "/assets/images/MontclairMall3.JPG",
+      "sizes": "3648x2736",
+      "type": "image/jpg"
+    },
+    {
+      "src": "/assets/images/MontclairMall4.JPG",
+      "sizes": "3648x2736",
+      "type": "image/jpg"
+    },
+    {
+      "src": "/assets/images/NorthridgeFashionCenter5.jpg",
+      "sizes": "2448x3264",
+      "type": "image/jpg"
+    },
+    {
+      "src": "/assets/images/NorthridgeFashionCenter6.jpg",
+      "sizes": "2448x3264",
+      "type": "image/jpg"
+    },
+    {
+      "src": "/assets/images/OntarioCenter.JPG",
+      "sizes": "2592x1944",
+      "type": "image/jpg"
+    },
+    {
+      "src": "/assets/images/OntarioCenter4.JPG",
+      "sizes": "2592x1944",
+      "type": "image/jpg"
+    },
+    {
+      "src": "/assets/images/ParamountHighSchoolGym1.jpg",
+      "sizes": "1280x960",
+      "type": "image/jpg"
+    },
+    {
+      "src": "/assets/images/ParamountHighSchoolGym2.JPG",
+      "sizes": "4320x3240",
+      "type": "image/jpg"
+    },
+    {
+      "src": "/assets/images/PotteryShack2.JPG",
+      "sizes": "3648x2736",
+      "type": "image/jpg"
+    },
+    {
+      "src": "/assets/images/PotteryShack3.JPG",
+      "sizes": "2272x1704",
+      "type": "image/jpg"
+    },
+    {
+      "src": "/assets/images/PrinceKuhioPlaza2.JPG",
+      "sizes": "2448x3264",
+      "type": "image/jpg"
+    },
+    {
+      "src": "/assets/images/RiversideCityHall1.JPG",
+      "sizes": "2592x1944",
+      "type": "image/jpg"
+    },
+    {
+      "src": "/assets/images/RiversideCityHall2.JPG",
+      "sizes": "2592x1944",
+      "type": "image/jpg"
+    },
+    {
+      "src": "/assets/images/SantaMonicaCourthouse2.JPG",
+      "sizes": "3648x2736",
+      "type": "image/jpg"
+    },
+    {
+      "src": "/assets/images/SantaMonicaCourthouse3.JPG",
+      "sizes": "3648x2736",
+      "type": "image/jpg"
+    },
+    {
+      "src": "/assets/images/ZalesMontclair1.JPG",
+      "sizes": "2592x1944",
+      "type": "image/jpg"
+    },
+    {
+      "src": "/assets/images/ZalesMontclair2.JPG",
+      "sizes": "2592x1944",
+      "type": "image/jpg"
+    },
+    {
+      "src": "/assets/images/ZalesMontclair3.JPG",
+      "sizes": "2592x1944",
+      "type": "image/jpg"
     }
-  ]
+  ],
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "start_url": "/",
+  "display": "standalone"
 }
